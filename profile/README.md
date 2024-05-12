@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 Welcome to the official Github page for Yutong Studios! Cool things coming soon!
 
 Look at what we are currently doing through our website (https://yutongstudios.com)!
