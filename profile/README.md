@@ -1,5 +1,9 @@
 ## Hi there 👋
 Welcome to the official Github page for Yutong Studios! Cool things coming soon!
+
+Look at what we are currently doing through our website (https://yutongstudios.com)!
+
+© 2024 Yutong Studios. All rights reserved.
 <!--
 
 **Here are some ideas to get you started:**
