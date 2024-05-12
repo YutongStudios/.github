@@ -10,7 +10,7 @@ View a list of our products [here](https://yutongstudios.com/products).
 
 Need to [Contact Us](https://yutongstudios.com/contact)?
 
-[Terms of Service](https://yutongstudios.com/terms-of-service) [Privacy Policy](https://yutongstudios.com/privacy-policy)
+<kbd>[Terms of Service](https://yutongstudios.com/terms-of-service)</kbd> <kbd>[Privacy Policy](https://yutongstudios.com/privacy-policy)</kbd>
 
 © 2024 Yutong Studios. All rights reserved.
 <!--
