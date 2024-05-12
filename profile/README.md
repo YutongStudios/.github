@@ -5,7 +5,7 @@ Look at what we are currently doing through our <kbd>[website](https://yutongstu
 
 ## About Yutong Studios
 Our motto is Revolutionary Entertainment.
-View our </kbd>[about us](https://yutongstudios.com/about)</kbd>.
+View our <kbd>[about us](https://yutongstudios.com/about)</kbd>.
 View a list of our products <kbd>[here](https://yutongstudios.com/products)</kbd>.
 
 Need to <kbd>[Contact Us](https://yutongstudios.com/contact)</kbd>?
