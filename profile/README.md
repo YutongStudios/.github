@@ -1,7 +1,11 @@
 ## Welcome 👋
 Welcome to the official Github page for Yutong Studios! Cool things coming soon!
 
-Look at what we are currently doing through our website (https://yutongstudios.com)!
+Look at what we are currently doing through our [website](https://yutongstudios.com)!
+
+# About Yutong Studios
+Our motto is Revolutionary Entertainment.
+View a list of our products [here](https://yutongstudios.com/products).
 
 © 2024 Yutong Studios. All rights reserved.
 <!--
