@@ -1,6 +1,5 @@
 # Welcome 👋
-Welcome to the official Github page for Yutong Studios! Here you can find all our free open source code!
-
+Welcome to the official Github page for Yutong Studios! Here you can find all our <kbd>[free open-source code](https://github.com/YutongStudios/Open-Source-Code)</kbd>!
 Look at what we are currently doing through our <kbd>[website](https://yutongstudios.com)</kbd>!
 
 ## About Yutong Studios
