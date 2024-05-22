@@ -1,5 +1,5 @@
 # Welcome 👋
-Welcome to the official Github page for Yutong Studios! Cool things coming soon!
+Welcome to the official Github page for Yutong Studios! Here you can find all our free open source code!
 
 Look at what we are currently doing through our <kbd>[website](https://yutongstudios.com)</kbd>!
 
