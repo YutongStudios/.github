@@ -1,5 +1,5 @@
 # Welcome 👋
-Welcome to the official Github page for Yutong Studios! Here you can find all our <kbd>[free open-source code](https://github.com/YutongStudios/Open-Source-Code)</kbd>!
+Welcome to the official Github page for Yutong Studios!
 
 Look at what we are currently doing through our <kbd>[website](https://yutongstudios.com)</kbd>!
 
@@ -11,6 +11,10 @@ View a list of our products <kbd>[here](https://yutongstudios.com/products)</kbd
 Need to <kbd>[Contact Us](https://yutongstudios.com/contact)</kbd>?
 
 <kbd>[Terms of Service](https://yutongstudios.com/terms-of-service)</kbd> <kbd>[Privacy Policy](https://yutongstudios.com/privacy-policy)</kbd>
+
+## Free Things
+* Subscribe to our <kbd>[free science newsletter](https://science.beehiiv.com)</kbd>!
+* All our <kbd>[free open-source code](https://github.com/YutongStudios/Open-Source-Code)</kbd>!
 
 © 2024 Yutong Studios. All rights reserved.
 <!--
